@@ -283,8 +283,8 @@ Bauanleitung für das [Modell v00.02]({{<relref
 
 ## Schritt 9: Sensorboards
 
-* Falls gewinkelte, 2-polige JST-Steckerverbinder vorhanden sind:
-  * Die JST-Stecker aus dem Sensorboard auslöten.
+* Falls gerade, 2-polige JST-Steckerverbinder vorhanden sind:
+  * Die geraden JST-Stecker aus dem Sensorboard auslöten.
   * Gewinkelte JST-Stecker stattdessen einlöten.
   * Das Kabel, wenn eingesteckt, sollte weg von den 4 Pins des Boards zeigen
     (nach oben, wenn montiert).
